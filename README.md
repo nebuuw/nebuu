@@ -20,6 +20,7 @@
 - process display - **btop**
 - program starter - **rofi**
 - bar - **waybar**
+- cd - **zoxide**
 
 ---
 
